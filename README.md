@@ -4,5 +4,5 @@
 
 El Proyecto consiste en hacer una web a un taller llamado Reparauto, en dicha web existe un apartado para la administración del admin el cual puede modificar cualquier texto de la web.
 
-Presentación - EN CONTRUCCIÓN<br>
-Url del  sitio - EN CONTRUCCIÓN
+Presentación - https://slides.com/jesusmorenomontiel/reparauto/<br>
+Url del  sitio - www.dev.tallermecanicomalaga.com
